@@ -1,1 +1,1 @@
-Questo progetto è stato réalizzato neel'ambito del corso di programmazione ad ogetti dell'università degli studi di Modena e Reggio Emila.
+Questo progetto è stato realizzato nell'ambito del corso di programmazione ad oggetti dell'università degli studi di Modena e Reggio Emila.
